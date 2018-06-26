@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<project name="Copy file project" default="info">
+  <target name="info">
+    <echo> Hello - This is sample project</echo>
+  </target>
+</project>
