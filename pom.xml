@@ -1,5 +1,8 @@
 <?xml version="1.0"?>
 <project name="Copy file project" default="info">
+  <groupId>org.example</groupId>
+  <artifactId>copyfile</artifactId>
+  <version>1.0</version>
   <target name="info">
     <echo> Hello - This is sample project</echo>
   </target>
